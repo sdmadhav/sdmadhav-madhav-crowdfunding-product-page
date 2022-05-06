@@ -1,4 +1,4 @@
-# Frontend Mentor - Crowdfunding Product Page
+#Internship project - Crowdfunding Product Page
 
 ![Design preview for the Crowdfunding product page coding challenge](./images/desktop-preview.jpg)
 
@@ -17,8 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/crowdfunding-product-page-scss-js-grid-css-animations-aNn8LKBbQ](https://www.frontendmentor.io/solutions/crowdfunding-product-page-scss-js-grid-css-animations-aNn8LKBbQ)
-- Live Site URL: [https://fm-crowdfunding-product-page.vercel.app/](https://fm-crowdfunding-product-page.vercel.app/)
+- Live Site URL: [https://madhav-crowdfunding-product-page1.vercel.app/](https://madhav-crowdfunding-product-page1.vercel.app/)
 
 ## My process
 
@@ -62,10 +61,3 @@ My learning experience wasn't limited to JS, however, as I got to utilitze some 
 - `transition-delay` property for desktop bookmark button "toggle" transition
 - `:focus-within` selector for number input label styling and in conjunction with "selected" pledge styling
 - [Custom data attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*) to make some JS element selection easier.
-
-### Resources
-
-- [How to add an event listener to multiple elements in JavaScript](https://flaviocopes.com/how-to-add-event-listener-multiple-elements-javascript/)
-- [Pure CSS Custom Styled Radio Buttons](https://moderncss.dev/pure-css-custom-styled-radio-buttons/)
-- [Bootstrap's "Scrolling long content" modal demo](https://getbootstrap.com/docs/4.3/components/modal/#scrolling-long-content) - referenced for selection modal functionality
-- [Google's free Web Accessilibilty Course on Udacity](https://www.udacity.com/course/web-accessibility--ud891)
