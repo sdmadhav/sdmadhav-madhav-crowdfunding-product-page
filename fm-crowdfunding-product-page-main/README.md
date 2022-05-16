@@ -1,4 +1,4 @@
-#Internship project - Crowdfunding Product Page
+# Internship project - Crowdfunding Product Page
 
 ![Design preview for the Crowdfunding product page coding challenge](./images/desktop-preview.jpg)
 
@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://madhav-crowdfunding-product-page1.vercel.app/](https://madhav-crowdfunding-product-page1.vercel.app/)
+- Li ve Site URL: [https://madhav-crowdfunding-product-page1.vercel.app/](https://madhav-crowdfunding-product-page1.vercel.app/)
 
 ## My process
 
